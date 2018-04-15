@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-
+ array = [1,2,"a pig","a shoe"]
 def create_an_array
   
 end
